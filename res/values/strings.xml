@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KOTLIN</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="from_value">From</string>
+    <string name="select_country">Select country</string>
+    <string name="to_value">To</string>
+    <string name="american_dollar">American Dollar</string>
+    <string name="dirham_maroc">Moroccan Dirham</string>
+    <string name="amount_txt">Amount</string>
+    <string name="amount_value">Amount</string>
+    <string name="convert_btn">Convert</string>
+    <string name="result_txt">Result</string>
+    <string name="converted_amount_txt">Converted amount</string>
+</resources>
